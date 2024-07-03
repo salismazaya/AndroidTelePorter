@@ -1,6 +1,6 @@
 import os
 import time
-from typing import Self
+from typing_extensions import Self
 
 from opentele.api import API
 from opentele.td import TDesktop, Account, AuthKeyType
